@@ -12,8 +12,19 @@ module.exports = {
         // All Other Dir/Sub-Dir
         './**/*.{js,ts,jsx,tsx,mdx}',
     ],
+    darkMode: 'class',
     theme: {
-        extend: {},
+        extend: {
+            colors: {
+                blue: '#3b5998',
+                'night_blue': '#1877f2',
+                gray: '#8b9dc3',
+                'night_gray': '#b0b3b8',
+                'night_black': '#000000',
+                white: '#ffffff',
+                'night_white': '#f7f7f7',
+            },
+        },
     },
     plugins: [],
 };

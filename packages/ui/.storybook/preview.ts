@@ -12,6 +12,15 @@ const preview: Preview = {
             },
         },
     },
+    globalTypes: {
+        darkMode: {
+            defaultValue: false, // Enable dark mode by default on all stories
+        },
+        // Optional (Default: 'dark')
+        className: {
+            defaultValue: 'dark', // Set your custom dark mode class name
+        },
+    },
 };
 
 export default preview;
