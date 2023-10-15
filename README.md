@@ -1,22 +1,38 @@
-# FE-Skeleton
+# 👋 Hey there, I'm Dibesh Raj Subedi - A Code Explorer 🚀
 
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) !["Figma"](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) !["React"](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) !["TailwindCSS"](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=whit)
+[![GitHub followers](https://img.shields.io/github/followers/itsubedibesh?label=Follow&style=social)](https://github.com/itsubedibesh)
 
-## Commands available
+Welcome to my digital universe! I'm a software engineer with over 3 years of experience in web development. Beyond the lines of code, I'm an explorer of the digital and metaphysical realms. Here's a glimpse into my world:
 
-```Text
-Setup Project       : yarn setup
-Build               : yarn build
-Develop             : yarn dev
-Develop StoryBook   : yarn dev-story
-```
+## 🌐 Web Wizardry
 
-## What has been configured
+- 💻 I craft web experiences with love, using HTML, CSS, JavaScript, and a multitude of web technologies.
+- 🌟 My web development journey has seen me create everything from e-commerce platforms to intricate content management systems.
+- ⚛️ I'm well-versed in the art of React, creating dynamic and responsive web applications that engage users.
+- 🚀 With Next.js, I've taken web development to the next level, building fast, SEO-friendly, and server-rendered applications.
 
--   [x] TurboRepo
--   [x] NextJs
--   [x] Tailwind
--   [x] Tailwind variants
--   [x] StoryBook
--   [x] Husky
--   [x] EsLint/Prettier
+## 💡 Beyond the Keyboard & ✍️ Wordsmithing
+
+- 🚀 I'm on a quest to broaden my horizons in the tech sphere, always eager to embrace the next big thing in the coding cosmos.
+- 👥 Connecting with fellow coding adventurers like you is what fuels my passion. Let's join forces and embark on epic coding quests together!
+
+I document my thoughts on these tech explorations on [Medium](https://medium.com/@itsubedibesh). Feel free to join me on these voyages of the mind!
+
+![[Recent Article 0](https://github-readme-medium-recent-article.vercel.app/medium/@itsubedibesh/0)](https://github-readme-medium-recent-article.vercel.app/medium/@itsubedibesh/0)
+
+![[Recent Article 1](https://github-readme-medium-recent-article.vercel.app/medium/@itsubedibesh/1)](https://github-readme-medium-recent-article.vercel.app/medium/@itsubedibesh/1)
+
+![[Recent Article 2](https://github-readme-medium-recent-article.vercel.app/medium/@itsubedibesh/2)](https://github-readme-medium-recent-article.vercel.app/medium/@itsubedibesh/2)
+
+## Cosmic Contemplation
+
+When I'm not pushing code or attending meetups, you'll often find me lost in the realms of:
+
+- 🌌 Science fiction, where time travel, parallel universes, and extraterrestrial life spark my imagination.
+- 🧙‍♂️ Ancient myths, unsolved mysteries, and the enigmatic weave of spirituality that weaves through human history.
+
+## 🌟 Let's Connect
+
+Join me in my quest to make the digital world more exciting and meaningful. I'm eager to connect, collaborate, and explore the frontiers of technology together.
+
+Stay curious, and let's keep the digital fire burning! 🔥
