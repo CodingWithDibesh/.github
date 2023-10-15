@@ -1,7 +1,3 @@
 export default function Page() {
-    return (
-        <>
-           Oops its Playground
-        </>
-    );
+    return <>Oops its Playground</>;
 }
