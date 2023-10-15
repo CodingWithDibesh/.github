@@ -10,6 +10,7 @@
         "build": "storybook build"
     },
     "devDependencies": {
+        "@iconify/react": "^4.1.1",
         "@storybook/addon-essentials": "^7.4.6",
         "@storybook/addon-interactions": "^7.4.6",
         "@storybook/addon-links": "^7.4.6",
