@@ -1,6 +1,0 @@
-{
-    "name": "tailwindcss-config",
-    "version": "0.0.0",
-    "main": "./index.js",
-    "license": "MIT"
-}
